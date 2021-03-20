@@ -13,7 +13,7 @@ FEMALE = 'F'
 ADDRESS_TYPE = (
     (HOME, 'Home'),
     (WORK, 'Work'),
-    (Other, 'Other'),
+    (OTHER, 'Other'),
 )
 
 USER_TYPE = (
